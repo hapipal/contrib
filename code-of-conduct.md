@@ -1,10 +1,10 @@
 # Code of Conduct
 
-Please be kind and courteous. There's no need to be mean or rude. Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer. Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.
+Please be kind and courteous. There's no need to be mean or rude. Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer. Please keep unstructured critique to a minimum. If you have ideas that you want to experiment with, make a fork and see how it works.
 
 ## Purpose
 
-A primary goal of the hapi pal project is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, gender identity, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of the hapi pal project is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in the hapi pal project to help us create safe and positive experiences for everyone.
 
@@ -12,13 +12,13 @@ A supplemental goal of this Code of Conduct is to increase open source citizensh
 
 ## Enforcement
 
-This Code of Conduct is maintained and enforced by the hapi pal Code of Conduct committee. The committee is subject to the same conduct rules detailed here. Until the committee is formed, the policy will be enforced by members of the core contributors group.
+This Code of Conduct is maintained and enforced by the hapi pal Code of Conduct committee. The committee is subject to the same conduct rules detailed here. Until the committee is formed, the policy will be enforced by members of the Lead Maintainers group.
 
 ## Scope
 
-This policy applies for any interaction with other hapi pal community members.
+This policy applies to any interaction with other hapi pal community members.
 
-Whether on GitHub, Twitter, IRC, Gitter, or any other venue, your actions matter. We expect all members of the hapi pal community, including both users and contributors, to behave respectfully to others regardless of venue and regardless whether the communication is about the hapi pal project or not.
+Whether on GitHub, Twitter, Slack, IRC, Gitter, or any other venue, your actions matter. We expect all members of the hapi pal community, including both users and contributors, to behave respectfully to others regardless of venue and regardless whether the communication is about the hapi pal project or not. In particular, given that hapi pal is an adjacent community to the hapi.js project, this also applies to interactions in spaces that fall under the hapi.js organization.
 
 Expressing opinions which may offend others in public or in private may trigger a policy violation review. Our goal is to provide a safe and welcoming environment and when a conflict arises between one person's freedom of expression and another's sense of safety, we will take the necessary actions to ensure the project remains a welcoming and safe environment for all.
 
@@ -32,10 +32,8 @@ The following behaviors are expected and requested of all community members:
 - Exercise consideration and respect in your speech and actions.
 - Attempt collaboration before conflict.
 - Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous
-  situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-- Remember that community event venues may be shared with members of the public. Please be respectful to all patrons
-  of these locations.
+- Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+- Remember that community event venues may be shared with members of the public. Please be respectful to all patrons of these locations.
 
 ## Unacceptable Behavior
 
@@ -48,8 +46,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 - Personal insults, particularly those related to gender, gender identity, sexual orientation, race, religion, or disability.
 - Inappropriate photography or recording.
 - Inappropriate physical contact. You should have someone's consent before touching them.
-- Unwelcome sexual attention. This includes, sexualized comments or jokes, inappropriate touching, groping, and
-  unwelcomed sexual advances.
+- Unwelcome sexual attention. This includes, sexualized comments or jokes, inappropriate touching, groping, and unwelcome sexual advances.
 - Deliberate intimidation, stalking or following (online or in person).
 - Advocating for, or encouraging, any of the above behavior.
 - Sustained disruption of community events, including talks and presentations.
@@ -66,9 +63,10 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## Contact Information
 
-You may contact one or more of the following:
-- Any member of the hapi pal Code of Conduct committee (once established)
+You may contact [Devin Ivy](mailto:devin@bigroomstudios.com) or any member of the hapi pal Code of Conduct committee (once established).
 
-## License and attribution
+## License and Attribution
 
-This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). Adapted from the [hapijs Code of Conduct](https://github.com/hapijs/contrib/blob/master/Conduct.md).
+This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
+
+Adapted from the [hapi.js Code of Conduct](https://github.com/hapijs/contrib/blob/37da8a914466e3d621677c1f19588e30edbf3bcf/Conduct.md) and the [Contributor Covenant](http://contributor-covenant.org), version 1.4, available at [http://contributor-covenant.org/version/1/4](http://contributor-covenant.org/version/1/4/).
